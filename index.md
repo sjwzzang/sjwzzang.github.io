@@ -1,5 +1,4 @@
 ---
-layout: project_page
 title: "졸업작품 예시"
 authors: "김글미, 이글미, 박글미"
 ---
