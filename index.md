@@ -1,4 +1,5 @@
 ---
+layout: project_page
 title: "졸업작품 테스트"
 authors: "김글미, 박글미, 이글미"
 ---
