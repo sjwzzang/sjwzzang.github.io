@@ -9,13 +9,12 @@ authors: "김글미, 박글미, 이글미"
 
 ## 주요 기능
 
-- 잡초 식별 및 제거
-- 작물 생육 데이터 수집
+- 기능1
+- 기능2
 
 ## 시연 영상
 
-[YouTube 링크](https://youtu.be/example)
 
 ## 참고 이미지
 
-![로봇 사진](images/robot.png)
+
