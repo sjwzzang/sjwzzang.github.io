@@ -1,0 +1,15 @@
+<!-- _layouts/project_page.html -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <h1>{{ page.title }}</h1>
+  <p><strong>팀원:</strong> {{ page.authors }}</p>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
