@@ -1,4 +1,5 @@
 ---
+layout: project_page
 title: "졸업작품 예시"
 members:
   - 김글미
