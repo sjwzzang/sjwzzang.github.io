@@ -21,14 +21,6 @@ members:
 
 ---
 
-## 🎬 시연 영상
-
-<div class="video-container">
-  <iframe src="https://youtu.be/vT1JzLTH4G4?si=hztY4BwKBJZnjrIQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
----
-
 ## 🖼️ 참고 이미지
 
 ![앱 실행화면](images/sample1.jpg)
